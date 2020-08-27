@@ -19,7 +19,6 @@ from opencensus.stats import view as view_module
 from opencensus.tags import tag_map as tag_map_module
 from opencensus.trace.samplers import ProbabilitySampler
 from opencensus.trace.tracer import Tracer
-from opencensus.trace.samplers import ProbabilitySampler
 
 # Logging
 logger = logging.getLogger(__name__)
